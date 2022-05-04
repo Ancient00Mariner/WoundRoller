@@ -1,2 +1,2 @@
 # WoundRoller
-python app for rolling wound location in DnD games
+A GUI-based Hit Location Roller for DnD
